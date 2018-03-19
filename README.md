@@ -1,5 +1,5 @@
 # java-interfaces
 Java Lab: interfaces, arrays, exceptions
-Class Hierarchy:
+<pre> Class Hierarchy: </pre>
 
 ![picture](https://github.com/vadrx/java-interfaces/blob/master/Hierarchy.png)
