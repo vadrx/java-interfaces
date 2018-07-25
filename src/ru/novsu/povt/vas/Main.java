@@ -45,7 +45,7 @@ public class Main {
         //Movable
         System.out.println("Movable:");
         Movable[] movable = new Movable[4];
-        //movable[0] = new MyWindow(3,5);
+        //movable[0] = new MyWindow(3,5); -- UNCOMMENT THIS LINE TO UNDO EXCEPTION
         movable[1] = new MyWindow(1,2);
         movable[2] = new MyWindow(2,4);
         movable[3] = new MyWindow(0,1);
